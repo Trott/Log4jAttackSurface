@@ -72,7 +72,7 @@ Log4j impact manufacturers and components summary from the Internet community. W
 
 
 
-#### -Redis- (not a JAVA app)
+#### ~Redis~ (not a JAVA app)
 
 #### Elastic
 
